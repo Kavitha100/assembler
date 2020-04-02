@@ -14,4 +14,3 @@ int main()
 	generate_object_code();
 	generate_machine_code();
 }
-//generate machine code
