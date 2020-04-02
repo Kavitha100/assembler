@@ -12,5 +12,6 @@ int main()
 	input();
 	addressing();
 	generate_object_code();
-	generate_machine_code();	
+	generate_machine_code();
 }
+//generate machine code
